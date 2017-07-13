@@ -3,7 +3,7 @@
 
 * [Meetups já realizados](meetups.md)
 
-_"De todos para todos!"_
+_"Da comunidade para a comunidade!"_
 
 Essa é a ideia do [Meetup NOSQL](https://www.meetup.com/pt-BR/nosqlsp), que surgiu do pensamento de podermos trocar conhecimentos, aprender coisas novas e claro, conhecer novos profissionais e fortalecer a comunidade. 
 
@@ -15,7 +15,7 @@ O objetivo do repositório é reunir as principais informações, como links, fo
 * [Quero apresentar algo!](#quero-apresentar-algo)
 * [Agradecimentos](#agradecimentos)
 * [Feedback](https://meetupcss.typeform.com/to/MS87CV)
-* [Cdigo de conduta](/sobre.md#código-de-conduta)
+* [Código de conduta](/sobre.md#código-de-conduta)
 
 ## Locais
 
@@ -32,7 +32,7 @@ Não é obrigatório. Algumas empresas que cedem o espaço geralmente oferecem, 
 
 ## Como participo?
 
-Se cadastre no site do [Meetup](http://www.meetup.com/) e se inscreva no [Meetup CSS](http://www.meetup.com/nosqlsp/). Lá estaremos divulgando as informações referentes aos próximos _meetups_.
+Se cadastre no site do [Meetup](http://www.meetup.com/) e se inscreva no [Meetup NoSQL](http://www.meetup.com/nosqlsp/). Lá estaremos divulgando as informações referentes aos próximos _meetups_.
 
 ## Quero apresentar algo!
 
@@ -48,6 +48,7 @@ O meetup é de todos e por isso nossa idéia é melhorá-lo sempre. Pra isso nos
 
 ## Agradecimentos
 
+Toda essa estrutura de GitHub foi baseada no grupo [Meetup CSS SP](https://github.com/raphaelfabeni/css-sp), obrigado pessoal!
 
 ### Empresas que já nos ajudaram :facepunch:
 
