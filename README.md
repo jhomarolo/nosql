@@ -45,6 +45,11 @@ Se cadastre no site do [Meetup](http://www.meetup.com/) e se inscreva no [Meetup
 
 Tem vontade de apresentar uma talk sobre algum assunto de NoSQL? Ou tem algum bug que não consegue resolver e quer pedir uma força pra galera? Ou simplesmente viu algum link legal e quer divulgar pro pessoal discutir? Maravilha. [Envie algumas informações pra gente através desse link](https://nosql1.typeform.com/to/U3Usu1) e assim que tivermos o próximo _meetup_ confirmado, iremos entrar em contato pra verificar sua disponibilidade na data do evento.
 
+## Quero patrocinar ou ajudar o grupo!
+
+O grupo está precisando sempre de ajuda, seja ela de locais, coffes, brindes, palestrantes e para isto contamos com ajuda e patrocínio de empresas. Caso você seja uma dessas pessoas ou faz parte de uma dessas empresas que "salvam" a comunidade, [Envie algumas informações pra gente através desse link](https://nosql1.typeform.com/to/INOTll) e logo entraremos em contato para acertar detalhes, onde podemos divulgar a sua marca e/ou vagas dentro do nossos encontros.
+
+
 ## Dúvidas?
 
 Tem alguma dúvida sobre o meetup? Confirmações, listas, faltas. [Saiba mais aqui](sobre.md).
