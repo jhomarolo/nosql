@@ -66,3 +66,4 @@ Toda essa estrutura de GitHub foi baseada no grupo [Meetup CSS SP](https://githu
 
 * [Faculdade Impacta](http://www.impacta.edu.br/)
 * [VivaReal](http://www.vivareal.com.br/)
+* [Vórtx](http://www.vortx.com.br/)
