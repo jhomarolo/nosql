@@ -7,6 +7,8 @@ _"Da comunidade para a comunidade!"_
 
 Essa é a ideia do [Meetup NOSQL](https://www.meetup.com/pt-BR/nosqlsp), que surgiu do pensamento de podermos trocar conhecimentos, aprender coisas novas e claro, conhecer novos profissionais e fortalecer a comunidade. 
 
+Também realizamos a [NoSQLBR](https://www.nosqlbr.com.br), que surgiu do pensamento de podermos trocar conhecimentos de forma mais orientada à cases reais.
+
 NoSQL (às vezes interpretado como Not Only SQL) é um termo genérico para uma classe definida de banco de dados não-relacionais que rompe um longo histórico de banco de dados relacionais. O termo NoSQL de forma geral é usado simplesmente para descrever uma família de bancos de dados que não são relacionais, podendo ser diferenciados em vários quesitos entre eles. No geral, existem 4 tipos de bancos de dados NoSQL, são eles:
 
 • Chave-Valor: Armazena dados no padrão chave-valor, como tabelas hash.
